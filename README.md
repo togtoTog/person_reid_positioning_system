@@ -1,0 +1,2 @@
+# person_reid_positioning_system
+基于行人重识别的密切接触者识别及示踪系统
