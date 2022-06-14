@@ -1,0 +1,127 @@
+.input1 {
+    float: left;
+    margin-top: 20px;
+    margin-left: 10px;
+    background-color: rgb(255, 123, 118);
+    color: #ffffff;
+    border: 0px;
+    border-radius: 5px;
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    font-size: 16px;
+}
+
+.input2 {
+    float: left;
+    margin-top: 20px;
+    margin-left: 10px;
+    color: #ffffff;
+    border: 0px;
+    border-radius: 5px;
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    font-size: 24px;
+}
+
+.bg {
+    background-repeat: repeat;
+    background-size: 100%;
+}
+
+.block1 {
+    float: left;
+    margin-left: 20px;
+    height: 500px;
+    width: 860px;
+    color: #fafafa;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+}
+
+.block2 {
+    float: left;
+    margin-left: 20px;
+    height: 500px;
+    width: 600px;
+    color: #fafafa;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+}
+
+.imgs img {
+    float: left;
+    margin-left: 20px;
+    margin-top: 5px;
+    height: 300px;
+    width: 120px;
+    border-radius: 10px;
+}
+
+.video1 {
+    margin-left: 20px;
+    margin-top: 75px;
+    height: 400px;
+    width: 100%;
+}
+
+.img1 {
+    margin-left: 20px; 
+    margin-top: 5px;
+    height: 300px; 
+    width: 120px;
+}
+
+.file {
+    margin-top: 20px;
+    margin-left: 10px;
+    position: relative;
+    display: inline-block;
+    background: #D0EEFF;
+    border: 1px solid #99D3F5;
+    border-radius: 4px;
+    padding: 4px 12px;
+    overflow: hidden;
+    color: #1E88C7;
+    text-decoration: none;
+    text-indent: 0;
+    line-height: 20px;
+    width: 130px;
+    text-align: center;
+}
+
+.file input {
+    position: absolute;
+    font-size: 100px;
+    right: 0;
+    top: 0;
+    opacity: 0;
+}
+
+.file:hover {
+    background: #AADFFD;
+    border-color: #78C3F3;
+    color: #004974;
+    text-decoration: none;
+}
+
+.progress {
+    float: left;
+    margin-top: 20px;
+    background-color: transparent;
+    color: #ffffff;
+    border: 0px;
+    border-radius: 5px;
+    width: 150px;
+    height: 30px;
+    text-align: left;
+    font-size: 24px;
+}
+
+.icp {
+    float: left;
+    width: 100%;
+    font-size: 15px;
+    text-align: center;
+}
